@@ -1,0 +1,28 @@
+Below is a to do list of what I need to complete within Project Aurora:
+
+-Add more songs to the sing me a song feature
+-Add more games to Aurora
+-Add Calculator
+-Add speech to text feature
+-Conversion feature
+-Get news and weather to work
+-Add date to calendar
+-Open Internet
+-Search Google, bing, yahoo etc..
+-Ability to add your own commands within the prompt
+-Test Speech
+-Add variations to commands
+-Ability to message certain people
+-Ability to open steam/start certain games
+-Stop a command part way through
+-Open movies folder
+-IMDB command that will search for film
+-Wake word?
+-Add definitions for certain word (aurora what does ... mean)
+-Delete history/internet cookies
+-Scan for viruses
+-Play specific songs
+-Play specific playlists
+-Password Protection
+-Different users with different permissions
+-Play songs through command prompt?
